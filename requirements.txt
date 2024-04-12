@@ -2,7 +2,7 @@ altgraph==0.17.4
 anyio==4.0.0
 beautifulsoup4==4.12.2
 certifi==2023.7.22
-idna==3.4
+idna==3.7
 macholib==1.16.3
 numpy==1.26.2
 packaging==23.2
